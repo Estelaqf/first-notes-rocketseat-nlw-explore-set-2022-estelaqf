@@ -1,4 +1,4 @@
-# first-notes-rocketseat-nwl-explore-set-2022
+# first-notes-rocketseat-nlw-explore-set-2022
 Anotações gerais e códigos destacados no evento. 
 
 <html>  <pt-br>
