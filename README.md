@@ -6,7 +6,7 @@ Códigos destacados no evento e anotações gerais.
 <head> 
 
 <h1> Vamos programar! </h1>
-<h2> Aqui você encontra as anotações e aprendizados do evento. </h2>  
+<h2> Bem-vinda! Aqui você encontra os aprendizados adquiridos durante o evento. </h2>  
 
 </head>
 
@@ -41,6 +41,8 @@ var Aprendizado = ['Html', 'JavaScript', 'CSS']; </var>
 </array>
 
 <img = src: > 
+
+createElement()
 
 <p><br>
 <strong> Anotações de novos termos </strong> 
