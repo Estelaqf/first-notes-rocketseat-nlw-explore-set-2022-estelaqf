@@ -6,7 +6,7 @@ Códigos destacados no evento e anotações gerais.
 <head> 
 
 <h1> Vamos programar! </h1>
-<h2> Bem-vinda </h2>  
+<h2> Aqui você encontra as anotações e aprendizados do evento. </h2>  
 
 </head>
 
