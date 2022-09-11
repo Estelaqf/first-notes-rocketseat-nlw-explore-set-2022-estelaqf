@@ -26,8 +26,8 @@ Códigos destacados no evento e anotações gerais.
 <p class="p3">NOVOS TERMOS</p>
   <p><br>
 
-    </style>
-      body {
+<style>
+ body {
     background-color: #000000;
   }
 h1 {color: #32CD32;
