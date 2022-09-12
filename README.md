@@ -8,37 +8,48 @@ Códigos destacados no evento e anotações gerais.
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>NLW First Notes</title>
 <h1><center>Vamos programar! </center></h1>
-<h2><center>Aqui você encontra os aprendizados adquiridos durante o evento NLW.</center> </h2>  
+<h2><center>Aqui você encontra os aprendizados adquiridos durante o evento NLW na trilha Explorer.</center> </h2> 
+
 <body>
+  
 <p class="p1">INFORMAÇÕES GERAIS</p>
 <p> Programação para: desenvolver WebSites </p>
+<p> Ferramenta de marcação: HTML </p>
+<p> Ferramenta de estilo: CSS </p>
 <p> Ferramenta de linguagem: JS - JavaScript </p>
 <p> Local do código: repositório site GitHub </p>
-<p> Link do site ou protótipo feito: criar. </p>
-<p> Pastas de arquivos: criar.</p><br>
-  <button type="button" class="button" id="button" >
-    VER PROTÓTIPO
-  </button>
-  <p><br>
- <p class="p2">ANOTAÇÕES E CÓDIGOS</p>
-  <p><br>
-    
+<p> Pastas de arquivos: criar.</p>
+<p> Link do site ou protótipo feito: criar. </p> 
+  <div>     
+ <button type="button" class="button" id="button" >
+    PROTÓTIPO
+  </button> <td class='tdSpace'>5</td>
+ <button type="button" class="button" id="button" >
+    SITE
+  </div>
+ <p class="p1">CÓDIGOS</p>
+<p>No VS Code começar inserindo index.html
+<p class="p2">ANOTAÇÕES</p>
+<p> - Acessar o Github. <p>- Baixar o VS Code e colocar a extensão Save. Como? 
+pesquisar: "save" e em “files autosave” clicar em "afterDelay"<p>Opcional: CodePen no navegador caso não consiga baixar o VS Code.
 <p class="p3">NOVOS TERMOS</p>
-  <p><br>
+<p> Dev, Code, Debug
+  
+ </body>
 
 <style>
- body {
+  body {
     background-color: #000000;
   }
-h1 {color: #32CD32;
+h1 {color: 	#FF1493;
   }
-h1 {font-family: Impact;
+h1 {font-family: Calibri;
 }
 h1 {font-size: 30px
 }
 h2 {font-family: Calibri;
 }
-h2 {color: #4B0082
+h2 {color: #228B22
   }
 h2 {font-size: 20px
 }
@@ -75,11 +86,14 @@ p {color: #C0C0C0
     color: #32CD32;
     border: 4px;
     border-style: solid;
-    border-radius: 20px;
-    cursor: pointer;
-  padding: 10px;
+    border-radius: 25px;
+    padding: 10px;
     font-size: 15px;
-  font-weight: bold
+    font-weight: bold;
+    height: 45px;
+    width: 120px;
+    cursor: pointer;
+}
   </style>
 
 
