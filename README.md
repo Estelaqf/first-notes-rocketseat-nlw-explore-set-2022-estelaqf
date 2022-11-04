@@ -1,6 +1,8 @@
 # first-notes-rocketseat-nlw-explore-set-2022
 Códigos destacados no evento e anotações gerais.
-<!DOCTYPE html>
+
+Clique para ver o modelo: 
+<!DOCTYPE html>https://codepen.io/estelaqf/pen/QWrEQjB
 <html lang="pt_BR">
 <head>
   <meta charset="UTF-8">
